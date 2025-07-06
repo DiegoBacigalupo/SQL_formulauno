@@ -15,11 +15,10 @@ El esquema incluye tablas detalladas para:
 
 Este proyecto es una demostración práctica de mis habilidades en el **diseño de bases de datos, normalización y gestión de datos estructurados**, sentando las bases para análisis de datos complejos y visualizaciones interactivas.
 
-## Resumen para Reclutadores
 
 Este proyecto de base de datos SQL para la Fórmula 1 es una clara evidencia de mis capacidades en **modelado de datos, diseño de esquemas relacionales y aseguramiento de la calidad de los datos.** He construido una infraestructura de datos robusta y escalable, lo cual es una habilidad fundamental en cualquier rol que involucre la gestión y el análisis de información.
 
-**Puntos Clave para el Reclutador:**
+**Puntos Clave:**
 
 * **Dominio de SQL y Bases de Datos Relacionales:** Demuestra una comprensión sólida de `CREATE DATABASE`, `CREATE TABLE`, claves primarias (`PRIMARY KEY`), claves foráneas (`FOREIGN KEY`) y relaciones entre tablas.
 * **Integridad y Consistencia de Datos:** El diseño del esquema refleja un enfoque riguroso en la normalización y la prevención de anomalías, crucial para la fiabilidad de los datos.
